@@ -1,0 +1,5 @@
+outs:
+- md5: 0d9dc500aafa88564c0a371c63cbdbbc
+  size: 8732
+  hash: md5
+  path: Valid.txt
